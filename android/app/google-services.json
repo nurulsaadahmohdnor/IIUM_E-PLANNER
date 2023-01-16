@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "902278923133",
+    "project_id": "iium-e-planner-cdcbe",
+    "storage_bucket": "iium-e-planner-cdcbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902278923133:android:02117a2c26ff47ef7b8214",
+        "android_client_info": {
+          "package_name": "com.example.schedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "902278923133-ob8g6c59jstg0vvn2fnac43gqjffqelh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Et_b-ElxqxBKh3srQMeMXhCpf4G9CyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "902278923133-ob8g6c59jstg0vvn2fnac43gqjffqelh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
