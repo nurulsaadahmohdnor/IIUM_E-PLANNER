@@ -4,7 +4,7 @@
 
 Failing to manage time for tasks is one of the big issues facing students nowadays. Usually, students who are currently working part-time jobs always face this issue. Therefore, the IIUM E-Planner has been developed to assist students in managing their academic and personal schedules, in addition to improving Islamic values in themselves by performing virtuous deeds. The agile methodology was chosen for the system development lifecycle in this project. For this application, several features and functionalities that implement persuasive system design have been applied to influence students' behavior whenever they are using the application. Persuasive design principles that have been applied in the IIUM E-Planner include personalization, self-monitoring, rewards, praise, and reminders. The application has been developed using Flutter.
 
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/92360027/212715189-cc7a32f0-b609-4d4d-a0e7-f5d614482e96.png)" width="500" height="800">
+<img src="https://user-images.githubusercontent.com/92360027/212715189-cc7a32f0-b609-4d4d-a0e7-f5d614482e96.png" width="500" height="800">
 
 ![Screenshot_1673239599](https://user-images.githubusercontent.com/92360027/212715189-cc7a32f0-b609-4d4d-a0e7-f5d614482e96.png)
 
